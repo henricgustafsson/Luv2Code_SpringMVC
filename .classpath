@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-aop-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-aop-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-aop-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-aspects-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-aspects-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-aspects-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-beans-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-beans-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-beans-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-context-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-context-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-context-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-context-indexer-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-context-indexer-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-context-indexer-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-context-support-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-context-support-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-context-support-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-core-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-core-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-core-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-expression-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-expression-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-expression-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-instrument-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-instrument-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-instrument-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-jcl-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-jcl-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-jcl-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-jdbc-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-jdbc-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-jdbc-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-jms-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-jms-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-jms-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-messaging-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-messaging-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-messaging-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-orm-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-orm-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-orm-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-oxm-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-oxm-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-oxm-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-test-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-test-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-test-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-tx-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-tx-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-tx-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-web-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-web-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-web-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-webflux-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-webflux-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-webflux-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-webmvc-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-webmvc-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-webmvc-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-websocket-5.0.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-websocket-5.0.2.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/spring-websocket-5.0.2.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/deltagare/Desktop/Luv2CodeSpringMvc/libs/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
