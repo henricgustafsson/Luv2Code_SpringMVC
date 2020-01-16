@@ -1,3 +1,3 @@
-##Due to problems with tomcat (9.0.3), despite adding Maven Dependency in Deploy Assembly, using the JARS from Luv2Code and the preconfigured XML files from Luv2Code
+Due to problems with tomcat (9.0.3), despite adding Maven Dependency in Deploy Assembly, using the JARS from Luv2Code and the preconfigured XML files from Luv2Code
 (spring-mvc-demo-servlet.xml, webb.xml) I cant get the server to run without errors.
 #Jumping ahead to Hibernate in another repo:
